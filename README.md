@@ -33,13 +33,6 @@ When I'm not deep in a stack trace or grading papers, you’ll likely find me:
 
 ---
 
-## GitHub Stats
-
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoLBorges&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLBorges&layout=compact&theme=transparent)
-
----
-
 ## Get in Touch
 
 I am currently building my professional presence in the tech community. While my **LinkedIn** and **Portfolio** are under construction (much like a new theory), I am always open to discussing technology, back-end challenges, or a quick game of chess.
