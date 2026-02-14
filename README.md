@@ -33,12 +33,10 @@ When I'm not deep in a stack trace or grading papers, you’ll likely find me:
 
 ---
 
-## My Progress at a Glance
+## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoLBorges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Eduardo's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLBorges&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoLBorges&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLBorges&layout=compact&theme=transparent)
 
 ---
 
